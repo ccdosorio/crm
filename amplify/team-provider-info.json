@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ventasadmin-dev-101409-authRole",
+      "UnauthRoleArn": "arn:aws:iam::141147875380:role/amplify-ventasadmin-dev-101409-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::141147875380:role/amplify-ventasadmin-dev-101409-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ventasadmin-dev-101409-deployment",
+      "UnauthRoleName": "amplify-ventasadmin-dev-101409-unauthRole",
+      "StackName": "amplify-ventasadmin-dev-101409",
+      "StackId": "arn:aws:cloudformation:us-east-1:141147875380:stack/amplify-ventasadmin-dev-101409/57c29e20-7204-11eb-9198-12146b70620f",
+      "AmplifyAppId": "dj0rtf29pu0kz"
+    },
+    "categories": {
+      "auth": {
+        "ventasadmin672898e5": {}
+      },
+      "storage": {
+        "ventasadmin0708baad": {
+          "bucketName": "nd.s3.rep.documentos-electronicos",
+          "region": "us-east-1"
+        }
+      }
+    }
+  }
+}
